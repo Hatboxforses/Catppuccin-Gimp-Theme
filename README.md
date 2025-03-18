@@ -1,4 +1,5 @@
-# Warning it's outdated because of how gimp uses themes in version 3 this will be fixed just not now
+# Warning
+It's outdated because of how gimp uses themes in version 3 this will be fixed just not now
 
 # If you still want to continue
 Download git: https://git-scm.com/download/win
