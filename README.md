@@ -1,7 +1,7 @@
 # Warning
 It's outdated because of how gimp uses themes in version 3 this is fixed in the 3.0 branch
 
-# If you still want to continue
+## If you still want to continue
 Download git: https://git-scm.com/download/win
 
 Then run "git lfs clone -b 2.0 https://github.com/Hatboxforses/Catppuccin-Gimp-Theme.git"
